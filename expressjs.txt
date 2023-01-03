@@ -1,0 +1,20 @@
+=>expressjs is a backend for an mern stack application.
+
+=>to initialize a project type
+     
+        npm init
+
+=>to work with express js
+      1) install npm i express
+      2)install  npm i -D nodemon
+
+ => nodemon hepls us to run the server automatically
+
+ => to run server use 
+          => nodemon mainfilename.js
+
+
+
+=> Some techniques to test our projects is 
+    1.mocha
+
